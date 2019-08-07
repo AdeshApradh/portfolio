@@ -42,6 +42,10 @@ h1{
     font-weight: 900;
 }
 
+.justified{
+    text-align: justify;
+}
+
 /* header */
 
 #title {
@@ -187,7 +191,7 @@ h1{
 
 /* pricing */
 
-#pricing{
+#interest{
     background-color: #db462c;
     text-align: center;
 }
@@ -206,4 +210,9 @@ h1{
 #cta{
     text-align: center;
     padding: 2%;
+}
+
+.float-it{
+    position: absolute;
+    right: 5%;
 }
